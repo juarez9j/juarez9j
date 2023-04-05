@@ -21,11 +21,7 @@ I enjoy using Clod Technologies like AWS, Google Cloud or MS Azure. My specialit
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/web-projectmanager-rommeljuarez/)
+- :zap: In my free time, I like learn about DevOps Role .
 
 
 - 🔭 I’m currently working on [Integration multiple companies to one centralized platform.](https://puntofacil.com.ni)
