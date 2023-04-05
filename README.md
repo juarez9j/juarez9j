@@ -21,7 +21,7 @@ I enjoy using Clod Technologies like AWS, Google Cloud or MS Azure. My specialit
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :zap: In my free time, I like learn about DevOps Role .
+- :zap: In my free time, I like learn about DevOps Role and Project management.
 
 
 - 🔭 I’m currently working on [Integration multiple companies to one centralized platform.](https://puntofacil.com.ni)
