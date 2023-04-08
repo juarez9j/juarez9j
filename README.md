@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 I enjoy using Clod Technologies like Google Cloud - Firebase, AWS or MS Azure. My speciality: Integration of APIs, platforms and processes. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a Software Engineer, contributing to lead and planning web projects that take the company to a new level and give it a competitive advantage.
 
 - :zap: In my free time, I like learn about DevOps Role and Project management.
 
