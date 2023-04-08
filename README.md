@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### :man_technologist: About Me :
 
-I enjoy using Clod Technologies like AWS, Google Cloud or MS Azure. My speciality: Integration of APIs, platforms and processes. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
+I enjoy using Clod Technologies like Google Cloud - Firebase, AWS or MS Azure. My speciality: Integration of APIs, platforms and processes. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
